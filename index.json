@@ -1,0 +1,7106 @@
+{
+  "fileCount": 710,
+  "files": [
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-38-127.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-41-127.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-42-127.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-43-127.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-44-127.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-45-127.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-46-127.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-47-127.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-48-127.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-49-127.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-51-127.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-52-127.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-53-127.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-54-127.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-55-127.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-56-127.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-57-127.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-58-127.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-59-127.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-60-127.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-61-127.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-62-127.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-63-127.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-64-127.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-65-127.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-66-127.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-67-127.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-68-127.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-69-127.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-70-127.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-71-127.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-72-127.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-73-127.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-74-127.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-75-127.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-76-127.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-77-127.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-78-127.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-79-127.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-80-127.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-81-127.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-82-127.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Beep_Master-SAMPLES_Beep_Master_Barry-83-127.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 118,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193752_c27f0000.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193801_cs27f0000.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193811_d27f0000.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193822_ds27f0000.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193831_e27f0000.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193841_f27f0000.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193850_fs27f0000.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193859_g27f0000.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193909_gs27f0000.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193918_a27f0000.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193927_as27f0000.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193936_b27f0000.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193946_c37f0000.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193955_cs37f0000.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194004_d37f0000.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194014_ds37f0000.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194025_e37f0000.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194037_f37f0000.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194048_fs37f0000.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194102_g37f0000.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194111_gs37f0000.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194120_a37f0000.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194130_as37f0000.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194141_b37f0000.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194150_c47f0000.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194202_cs47f0000.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194213_d47f0000.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194227_ds47f0000.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194241_e47f0000.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194254_f47f0000.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194308_fs47f0000.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194321_g47f0000.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194331_gs47f0000.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194340_a47f0000.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194349_as47f0000.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194358_b47f0000.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194407_c57f0000.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193752_c27f0000.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193801_cs27f0000.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193811_d27f0000.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193822_ds27f0000.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193831_e27f0000.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193841_f27f0000.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193850_fs27f0000.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193859_g27f0000.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193909_gs27f0000.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193918_a27f0000.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193927_as27f0000.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193936_b27f0000.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193946_c37f0000.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102193955_cs37f0000.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194004_d37f0000.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194014_ds37f0000.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194025_e37f0000.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194037_f37f0000.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194048_fs37f0000.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194102_g37f0000.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194111_gs37f0000.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194120_a37f0000.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194130_as37f0000.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194141_b37f0000.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194150_c47f0000.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194202_cs47f0000.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194213_d47f0000.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194227_ds47f0000.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194241_e47f0000.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194254_f47f0000.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194308_fs47f0000.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194321_g47f0000.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194331_gs47f0000.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194340_a47f0000.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194349_as47f0000.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194358_b47f0000.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102194407_c57f0000.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102222934_c17f0000.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102222950_cs17f0000.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223006_d17f0000.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223023_ds17f0000.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223039_e17f0000.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223054_f17f0000.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223111_fs17f0000.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223126_g17f0000.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223142_gs17f0000.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223158_a17f0000.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223214_as17f0000.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223230_b17f0000.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223246_c27f0000.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223303_cs27f0000.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223319_d27f0000.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223335_ds27f0000.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223351_e27f0000.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223407_f27f0000.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223423_fs27f0000.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223439_g27f0000.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223455_gs27f0000.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223512_a27f0000.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223528_as27f0000.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223545_b27f0000.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223601_c37f0000.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223617_cs37f0000.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223634_d37f0000.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223650_ds37f0000.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223706_e37f0000.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223722_f37f0000.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223738_fs37f0000.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223755_g37f0000.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223811_gs37f0000.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223827_a37f0000.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223843_as37f0000.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223900_b37f0000.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223916_c47f0000.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223932_cs47f0000.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102223948_d47f0000.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224004_ds47f0000.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224022_e47f0000.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224043_f47f0000.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224103_fs47f0000.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224124_g47f0000.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224144_gs47f0000.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224204_a47f0000.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224225_as47f0000.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224246_b47f0000.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224308_c57f0000.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224329_cs57f0000.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224347_d57f0000.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224405_ds57f0000.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224424_e57f0000.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224442_f57f0000.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224500_fs57f0000.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091102224518_g57f0000.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-48-127.opus",
+      "note": 11,
+      "loNote": 11,
+      "hiNote": 48,
+      "rootNote": 11,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-49-127.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-50-127.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-51-127.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-52-127.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-53-127.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-54-127.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-55-127.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-56-127.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-57-127.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-58-127.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-59-127.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-60-127.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-61-127.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-62-127.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-63-127.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-64-127.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-65-127.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-66-127.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-67-127.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-68-127.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-69-127.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-70-127.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-71-127.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-72-127.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-73-127.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-74-127.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-75-127.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-76-127.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-77-127.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-78-127.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-79-127.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-80-127.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-81-127.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-82-127.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-83-127.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-84-127.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-85-127.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-86-127.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-87-127.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-88-127.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-89-127.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-90-127.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-91-127.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-92-127.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-93-127.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-94-127.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-95-127.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "JP4K3Combo-96-127.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-70-127.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-67-127.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-89-127.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-37-127.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-82-127.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-80-127.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-46-127.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-44-127.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-60-127.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-100-127_0001.opus",
+      "note": 100,
+      "loNote": 100,
+      "hiNote": 100,
+      "rootNote": 100,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-53-127.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-77-127.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-58-127.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-54-127.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-68-127.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-85-127.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-98-127.opus",
+      "note": 98,
+      "loNote": 98,
+      "hiNote": 98,
+      "rootNote": 98,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-65-127.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-84-127.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-95-127.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-86-127.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-73-127.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-69-127.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-66-127.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-55-127.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-90-127.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-81-127.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-87-127.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-41-127.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-38-127.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-50-127.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-99-127.opus",
+      "note": 99,
+      "loNote": 99,
+      "hiNote": 99,
+      "rootNote": 99,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-48-127.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-71-127.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-59-127.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-61-127.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-94-127.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-78-127.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-91-127.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-43-127.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-57-127.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-79-127.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-92-127.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-88-127.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-40-127.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-56-127.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-96-127.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-47-127.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-49-127.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-97-127.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-75-127.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-74-127.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-76-127.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-83-127.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-63-127.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-93-127.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-42-127.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-36-127_0002.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-39-127.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-62-127.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-72-127.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-45-127.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-51-127.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-52-127.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "xt_with_filter-64-127.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-25-127-9ION.opus",
+      "note": 25,
+      "loNote": 25,
+      "hiNote": 25,
+      "rootNote": 25,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-26-127-4U28.opus",
+      "note": 26,
+      "loNote": 26,
+      "hiNote": 26,
+      "rootNote": 26,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-27-127-HYNN.opus",
+      "note": 27,
+      "loNote": 27,
+      "hiNote": 27,
+      "rootNote": 27,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-28-127-IKDZ.opus",
+      "note": 28,
+      "loNote": 28,
+      "hiNote": 28,
+      "rootNote": 28,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-29-127-D097.opus",
+      "note": 29,
+      "loNote": 29,
+      "hiNote": 29,
+      "rootNote": 29,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-30-127-25M9.opus",
+      "note": 30,
+      "loNote": 30,
+      "hiNote": 30,
+      "rootNote": 30,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-31-127-Y3TF.opus",
+      "note": 31,
+      "loNote": 31,
+      "hiNote": 31,
+      "rootNote": 31,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-32-127-YPUY.opus",
+      "note": 32,
+      "loNote": 32,
+      "hiNote": 32,
+      "rootNote": 32,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-33-127-5JF1.opus",
+      "note": 33,
+      "loNote": 33,
+      "hiNote": 33,
+      "rootNote": 33,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-34-127-6K0J.opus",
+      "note": 34,
+      "loNote": 34,
+      "hiNote": 34,
+      "rootNote": 34,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-35-127-TM6E.opus",
+      "note": 35,
+      "loNote": 35,
+      "hiNote": 35,
+      "rootNote": 35,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-36-127-HUTZ.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-37-127-ANTP.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-38-127-K191.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-39-127-WEZY.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-40-127-7WFO.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-41-127-COMQ.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-42-127-RPDV.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-43-127-9ISV.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-44-127-A99C.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-45-127-7TDE.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-46-127-IWOT.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-47-127-CW7Z.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-48-127-PU69.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-49-127-GLRX.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-50-127-P0WN.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-51-127-KWNW.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-52-127-8WNR.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-53-127-T7TX.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-54-127-F93Z.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-55-127-HGZG.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-56-127-A0CJ.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-57-127-NJY6.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-58-127-9XLE.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-59-127-430J.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-60-127-E7YT.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-61-127-A2BW.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-62-127-ONDA.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-63-127-DJQN.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-64-127-87WL.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-65-127-2DDT.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-66-127-CY70.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-67-127-Y73I.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-68-127-BKTL.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-69-127-FI4J.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-70-127-SJV6.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-71-127-2DSR.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Flute-72-127-M133.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-25-127.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-26-127.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-27-127.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-28-127.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-29-127.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-30-127.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-31-127.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-32-127.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-33-127.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-34-127.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-35-127.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-36-127.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-37-127.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-38-127.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-39-127.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-40-127.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-41-127.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-42-127.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-43-127.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-44-127.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-45-127.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-46-127.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-47-127.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-48-127.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-49-127.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-50-127.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-51-127.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-52-127.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-53-127.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-54-127.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-55-127.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-56-127.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-57-127.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-58-127.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-59-127.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-60-127.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-61-127.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-62-127.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-63-127.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-64-127.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-65-127.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-66-127.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-67-127.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-68-127.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-69-127.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-70-127.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-71-127.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-72-127.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-73-127.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-74-127.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-75-127.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-76-127.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-77-127.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-78-127.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-79-127.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-80-127.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-81-127.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-82-127.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-83-127.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-84-127.opus",
+      "note": 95,
+      "loNote": 95,
+      "hiNote": 95,
+      "rootNote": 95,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-85-127.opus",
+      "note": 96,
+      "loNote": 96,
+      "hiNote": 96,
+      "rootNote": 96,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-86-127.opus",
+      "note": 97,
+      "loNote": 97,
+      "hiNote": 97,
+      "rootNote": 97,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-87-127.opus",
+      "note": 98,
+      "loNote": 98,
+      "hiNote": 98,
+      "rootNote": 98,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-88-127.opus",
+      "note": 99,
+      "loNote": 99,
+      "hiNote": 99,
+      "rootNote": 99,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-89-127.opus",
+      "note": 100,
+      "loNote": 100,
+      "hiNote": 100,
+      "rootNote": 100,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-90-127.opus",
+      "note": 101,
+      "loNote": 101,
+      "hiNote": 101,
+      "rootNote": 101,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-91-127.opus",
+      "note": 102,
+      "loNote": 102,
+      "hiNote": 102,
+      "rootNote": 102,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-92-127.opus",
+      "note": 103,
+      "loNote": 103,
+      "hiNote": 103,
+      "rootNote": 103,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-93-127.opus",
+      "note": 104,
+      "loNote": 104,
+      "hiNote": 104,
+      "rootNote": 104,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-94-127.opus",
+      "note": 105,
+      "loNote": 105,
+      "hiNote": 105,
+      "rootNote": 105,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-95-127.opus",
+      "note": 106,
+      "loNote": 106,
+      "hiNote": 106,
+      "rootNote": 106,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "Tuned_Percussion-96-127.opus",
+      "note": 107,
+      "loNote": 107,
+      "hiNote": 107,
+      "rootNote": 107,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "24C0-L88S.opus",
+      "note": 24,
+      "loNote": 24,
+      "hiNote": 24,
+      "rootNote": 24,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "24C0-ICAE.opus",
+      "note": 24,
+      "loNote": 24,
+      "hiNote": 24,
+      "rootNote": 24,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "24C0-NQOO.opus",
+      "note": 24,
+      "loNote": 24,
+      "hiNote": 24,
+      "rootNote": 24,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "24C0-GX86.opus",
+      "note": 24,
+      "loNote": 24,
+      "hiNote": 24,
+      "rootNote": 24,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "25Cs0-MJJS.opus",
+      "note": 25,
+      "loNote": 25,
+      "hiNote": 25,
+      "rootNote": 25,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "25Cs0-CEWO.opus",
+      "note": 25,
+      "loNote": 25,
+      "hiNote": 25,
+      "rootNote": 25,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "25Cs0-FCOC.opus",
+      "note": 25,
+      "loNote": 25,
+      "hiNote": 25,
+      "rootNote": 25,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "25Cs0-QODP.opus",
+      "note": 25,
+      "loNote": 25,
+      "hiNote": 25,
+      "rootNote": 25,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "26D0-JNGS.opus",
+      "note": 26,
+      "loNote": 26,
+      "hiNote": 26,
+      "rootNote": 26,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "26D0-EOXR.opus",
+      "note": 26,
+      "loNote": 26,
+      "hiNote": 26,
+      "rootNote": 26,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "26D0-84MZ.opus",
+      "note": 26,
+      "loNote": 26,
+      "hiNote": 26,
+      "rootNote": 26,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "26D0-BQR7.opus",
+      "note": 26,
+      "loNote": 26,
+      "hiNote": 26,
+      "rootNote": 26,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "27Ds0-HTEK.opus",
+      "note": 27,
+      "loNote": 27,
+      "hiNote": 27,
+      "rootNote": 27,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "27Ds0-5Z9V.opus",
+      "note": 27,
+      "loNote": 27,
+      "hiNote": 27,
+      "rootNote": 27,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "27Ds0-YFP6.opus",
+      "note": 27,
+      "loNote": 27,
+      "hiNote": 27,
+      "rootNote": 27,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "27Ds0-2WNW.opus",
+      "note": 27,
+      "loNote": 27,
+      "hiNote": 27,
+      "rootNote": 27,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "28E0-QYPH.opus",
+      "note": 28,
+      "loNote": 28,
+      "hiNote": 28,
+      "rootNote": 28,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "28E0-O07Q.opus",
+      "note": 28,
+      "loNote": 28,
+      "hiNote": 28,
+      "rootNote": 28,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "28E0-YTLT.opus",
+      "note": 28,
+      "loNote": 28,
+      "hiNote": 28,
+      "rootNote": 28,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "28E0-K7Z3.opus",
+      "note": 28,
+      "loNote": 28,
+      "hiNote": 28,
+      "rootNote": 28,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "29F0-14IC.opus",
+      "note": 29,
+      "loNote": 29,
+      "hiNote": 29,
+      "rootNote": 29,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "29F0-OXIX.opus",
+      "note": 29,
+      "loNote": 29,
+      "hiNote": 29,
+      "rootNote": 29,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "29F0-TGJC.opus",
+      "note": 29,
+      "loNote": 29,
+      "hiNote": 29,
+      "rootNote": 29,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "29F0-JS4J.opus",
+      "note": 29,
+      "loNote": 29,
+      "hiNote": 29,
+      "rootNote": 29,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "30Fs0-JOSF.opus",
+      "note": 30,
+      "loNote": 30,
+      "hiNote": 30,
+      "rootNote": 30,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "30Fs0-L58Z.opus",
+      "note": 30,
+      "loNote": 30,
+      "hiNote": 30,
+      "rootNote": 30,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "30Fs0-EQJ4.opus",
+      "note": 30,
+      "loNote": 30,
+      "hiNote": 30,
+      "rootNote": 30,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "30Fs0-XBZE.opus",
+      "note": 30,
+      "loNote": 30,
+      "hiNote": 30,
+      "rootNote": 30,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "31G0-UAL2.opus",
+      "note": 31,
+      "loNote": 31,
+      "hiNote": 31,
+      "rootNote": 31,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "31G0-XOZO.opus",
+      "note": 31,
+      "loNote": 31,
+      "hiNote": 31,
+      "rootNote": 31,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "31G0-V0YY.opus",
+      "note": 31,
+      "loNote": 31,
+      "hiNote": 31,
+      "rootNote": 31,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "31G0-WOIL.opus",
+      "note": 31,
+      "loNote": 31,
+      "hiNote": 31,
+      "rootNote": 31,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "32Gs0-BB5R.opus",
+      "note": 32,
+      "loNote": 32,
+      "hiNote": 32,
+      "rootNote": 32,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "32Gs0-0NVH.opus",
+      "note": 32,
+      "loNote": 32,
+      "hiNote": 32,
+      "rootNote": 32,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "32Gs0-9S1D.opus",
+      "note": 32,
+      "loNote": 32,
+      "hiNote": 32,
+      "rootNote": 32,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "32Gs0-918T.opus",
+      "note": 32,
+      "loNote": 32,
+      "hiNote": 32,
+      "rootNote": 32,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "33A0-TU65.opus",
+      "note": 33,
+      "loNote": 33,
+      "hiNote": 33,
+      "rootNote": 33,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "33A0-UXFU.opus",
+      "note": 33,
+      "loNote": 33,
+      "hiNote": 33,
+      "rootNote": 33,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "33A0-1UDP.opus",
+      "note": 33,
+      "loNote": 33,
+      "hiNote": 33,
+      "rootNote": 33,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "33A0-8ZXH.opus",
+      "note": 33,
+      "loNote": 33,
+      "hiNote": 33,
+      "rootNote": 33,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "34As0-2PVP.opus",
+      "note": 34,
+      "loNote": 34,
+      "hiNote": 34,
+      "rootNote": 34,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "34As0-WH3J.opus",
+      "note": 34,
+      "loNote": 34,
+      "hiNote": 34,
+      "rootNote": 34,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "34As0-KJ87.opus",
+      "note": 34,
+      "loNote": 34,
+      "hiNote": 34,
+      "rootNote": 34,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "34As0-WBF6.opus",
+      "note": 34,
+      "loNote": 34,
+      "hiNote": 34,
+      "rootNote": 34,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "35B0-S5J3.opus",
+      "note": 35,
+      "loNote": 35,
+      "hiNote": 35,
+      "rootNote": 35,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "35B0-Y7PO.opus",
+      "note": 35,
+      "loNote": 35,
+      "hiNote": 35,
+      "rootNote": 35,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "35B0-Y0WE.opus",
+      "note": 35,
+      "loNote": 35,
+      "hiNote": 35,
+      "rootNote": 35,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "35B0-QJ9H.opus",
+      "note": 35,
+      "loNote": 35,
+      "hiNote": 35,
+      "rootNote": 35,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "36C1-1QZC.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "36C1-0PSP.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "36C1-5G7Q.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "36C1-NRNI.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "37Cs1-8I7B.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "37Cs1-ALI2.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "37Cs1-6YQZ.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "37Cs1-9Y8N.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "38D1-6GFB.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "38D1-F825.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "38D1-46EL.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "38D1-SQ8J.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "39Ds1-D9ZO.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "39Ds1-Y0DT.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "39Ds1-WGRD.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "39Ds1-O9QA.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "40E1-5K3M.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "40E1-U2YQ.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "40E1-XF9O.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "40E1-UDBR.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "41F1-D396.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "41F1-A2DK.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "41F1-V14Y.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "41F1-5SFV.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "42Fs1-OTNU.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "42Fs1-8A52.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "42Fs1-XR1E.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "42Fs1-3531.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "43G1-YS7Q.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "43G1-SPQS.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "43G1-3ROL.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "43G1-1QT1.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "44Gs1-MM0I.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "44Gs1-6KVQ.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "44Gs1-2EIG.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "44Gs1-6V3Y.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "45A1-CCYU.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "45A1-E6F0.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "45A1-MWDH.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "45A1-D1P8.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "46As1-AYKP.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "46As1-7YQ8.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "46As1-GQ34.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "46As1-7XWA.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "47B1-SOXC.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "47B1-1KLF.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "47B1-QY56.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "47B1-OXOG.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "48C2-8DG3.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "48C2-64SB.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "48C2-RKC3.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "48C2-3FXI.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "49Cs2-C2D9.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "49Cs2-PNKK.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "49Cs2-TSRZ.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "49Cs2-UA7F.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "50D2-GEF5.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "50D2-5Y3O.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "50D2-WP5A.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "50D2-EH5M.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "51Ds2-12PO.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "51Ds2-2SGN.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "51Ds2-527J.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "51Ds2-C8UT.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "52E2-9YEC.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "52E2-40L4.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "52E2-U6GM.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "52E2-4J6R.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "53F2-KHWZ.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "53F2-6L75.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "53F2-OZ4N.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "53F2-ON0P.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "54Fs2-GTVW.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "54Fs2-TANY.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "54Fs2-4SGH.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "54Fs2-5LI3.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "55G2-1CQN.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "55G2-TGLA.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "55G2-RMZN.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "55G2-Q597.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "56Gs2-5R9F.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "56Gs2-MCN7.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "56Gs2-MDRM.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "56Gs2-5E2M.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "57A2-DBAP.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "57A2-M8Y4.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "57A2-EIS0.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "57A2-M6NT.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "58As2-1BWG.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "58As2-OY1O.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "58As2-ABD2.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "58As2-VZ6L.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "59B2-TC0Q.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "59B2-AQN5.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "59B2-ZS4A.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "59B2-F8NG.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "60C3-603Y.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "60C3-37Y5.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "60C3-GGB5.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "60C3-6KKV.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "61Cs3-RGWQ.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "61Cs3-J8MJ.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "61Cs3-24Y7.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "61Cs3-MNAQ.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "62D3-JX6A.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "62D3-THU1.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "62D3-ND0F.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "62D3-1899.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "63Ds3-HXOJ.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "63Ds3-YJUZ.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "63Ds3-TQAD.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "63Ds3-SM08.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "64E3-YE8Y.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "64E3-9E7D.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "64E3-8G3E.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "64E3-I31M.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "65F3-0HHS.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "65F3-KVRJ.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "65F3-I8HG.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "65F3-UWTU.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "66Fs3-NLBF.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "66Fs3-FL7K.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "66Fs3-S2N0.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "66Fs3-4T7G.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "67G3-6VPQ.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "67G3-F16C.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "67G3-BHTE.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "67G3-9SY2.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "68Gs3-P0JE.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "68Gs3-BLB5.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "68Gs3-WPT4.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "68Gs3-J7D8.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "69A3-JVS6.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "69A3-JLP5.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "69A3-TVWX.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "69A3-1J7S.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "70As3-796R.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "70As3-GKAJ.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "70As3-GHTG.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "70As3-3D54.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "71B3-8DJN.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "71B3-3KDQ.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "71B3-UU3K.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "71B3-MRCO.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "72C4-IRSJ.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "72C4-KITO.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "72C4-96HK.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "72C4-VSDK.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "73Cs4-JFPB.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "73Cs4-JY85.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "73Cs4-3QBI.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "73Cs4-JU0R.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "74D4-UD62.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "74D4-TY47.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "74D4-22OZ.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "74D4-XFQE.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "75Ds4-B1PG.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "75Ds4-XNVQ.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "75Ds4-LJ3O.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "75Ds4-XH9O.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "76E4-00WE.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "76E4-9DP7.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "76E4-JR2I.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "76E4-KTZ9.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "77F4-I073.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "77F4-TWB5.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "77F4-31V0.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "77F4-K7BM.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "78Fs4-SI4N.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "78Fs4-YSDF.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "78Fs4-XMA9.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "78Fs4-XELM.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "79G4-WMO8.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "79G4-V1UJ.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "79G4-BROD.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "79G4-Y10I.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "80Gs4-8SDE.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "80Gs4-AQF1.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "80Gs4-9951.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "80Gs4-DB58.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "81A4-FA3V.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "81A4-RX1K.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "81A4-XKU6.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "81A4-0SXP.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "82As4-5DOY.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "82As4-WNV6.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "82As4-W00X.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "82As4-47VQ.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "83B4-EL7C.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "83B4-BVAX.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "83B4-77UY.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "83B4-TG0P.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "84C5-9478.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 1,
+      "hiVelocity": 8,
+      "roundRobin": 1
+    },
+    {
+      "filename": "84C5-C749.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 9,
+      "hiVelocity": 32,
+      "roundRobin": 1
+    },
+    {
+      "filename": "84C5-W5NL.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 33,
+      "hiVelocity": 71,
+      "roundRobin": 1
+    },
+    {
+      "filename": "84C5-D76X.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 72,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152109_cs07f0000.opus",
+      "note": 36,
+      "loNote": 36,
+      "hiNote": 36,
+      "rootNote": 36,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152132_d07f0000.opus",
+      "note": 37,
+      "loNote": 37,
+      "hiNote": 37,
+      "rootNote": 37,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152154_ds07f0000.opus",
+      "note": 38,
+      "loNote": 38,
+      "hiNote": 38,
+      "rootNote": 38,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152213_e07f0000.opus",
+      "note": 39,
+      "loNote": 39,
+      "hiNote": 39,
+      "rootNote": 39,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152233_f07f0000.opus",
+      "note": 40,
+      "loNote": 40,
+      "hiNote": 40,
+      "rootNote": 40,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152255_fs07f0000.opus",
+      "note": 41,
+      "loNote": 41,
+      "hiNote": 41,
+      "rootNote": 41,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152318_g07f0000.opus",
+      "note": 42,
+      "loNote": 42,
+      "hiNote": 42,
+      "rootNote": 42,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152342_gs07f0000.opus",
+      "note": 43,
+      "loNote": 43,
+      "hiNote": 43,
+      "rootNote": 43,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152402_a07f0000.opus",
+      "note": 44,
+      "loNote": 44,
+      "hiNote": 44,
+      "rootNote": 44,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152421_as07f0000.opus",
+      "note": 45,
+      "loNote": 45,
+      "hiNote": 45,
+      "rootNote": 45,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152441_b07f0000.opus",
+      "note": 46,
+      "loNote": 46,
+      "hiNote": 46,
+      "rootNote": 46,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152503_c17f0000.opus",
+      "note": 47,
+      "loNote": 47,
+      "hiNote": 47,
+      "rootNote": 47,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152523_cs17f0000.opus",
+      "note": 48,
+      "loNote": 48,
+      "hiNote": 48,
+      "rootNote": 48,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152547_d17f0000.opus",
+      "note": 49,
+      "loNote": 49,
+      "hiNote": 49,
+      "rootNote": 49,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152607_ds17f0000.opus",
+      "note": 50,
+      "loNote": 50,
+      "hiNote": 50,
+      "rootNote": 50,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152652_f17f0000.opus",
+      "note": 51,
+      "loNote": 51,
+      "hiNote": 51,
+      "rootNote": 51,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152718_fs17f0000.opus",
+      "note": 52,
+      "loNote": 52,
+      "hiNote": 52,
+      "rootNote": 52,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152740_g17f0000.opus",
+      "note": 53,
+      "loNote": 53,
+      "hiNote": 53,
+      "rootNote": 53,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152804_gs17f0000.opus",
+      "note": 54,
+      "loNote": 54,
+      "hiNote": 54,
+      "rootNote": 54,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152832_a17f0000.opus",
+      "note": 55,
+      "loNote": 55,
+      "hiNote": 55,
+      "rootNote": 55,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152854_as17f0000.opus",
+      "note": 56,
+      "loNote": 56,
+      "hiNote": 56,
+      "rootNote": 56,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152914_b17f0000.opus",
+      "note": 57,
+      "loNote": 57,
+      "hiNote": 57,
+      "rootNote": 57,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111152936_c27f0000.opus",
+      "note": 58,
+      "loNote": 58,
+      "hiNote": 58,
+      "rootNote": 58,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153000_cs27f0000.opus",
+      "note": 59,
+      "loNote": 59,
+      "hiNote": 59,
+      "rootNote": 59,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153031_d27f0000.opus",
+      "note": 60,
+      "loNote": 60,
+      "hiNote": 60,
+      "rootNote": 60,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153050_ds27f0000.opus",
+      "note": 61,
+      "loNote": 61,
+      "hiNote": 61,
+      "rootNote": 61,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153114_e27f0000.opus",
+      "note": 62,
+      "loNote": 62,
+      "hiNote": 62,
+      "rootNote": 62,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153134_f27f0000.opus",
+      "note": 63,
+      "loNote": 63,
+      "hiNote": 63,
+      "rootNote": 63,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153156_fs27f0000.opus",
+      "note": 64,
+      "loNote": 64,
+      "hiNote": 64,
+      "rootNote": 64,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153216_g27f0000.opus",
+      "note": 65,
+      "loNote": 65,
+      "hiNote": 65,
+      "rootNote": 65,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153235_gs27f0000.opus",
+      "note": 66,
+      "loNote": 66,
+      "hiNote": 66,
+      "rootNote": 66,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153304_a27f0000.opus",
+      "note": 67,
+      "loNote": 67,
+      "hiNote": 67,
+      "rootNote": 67,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153323_as27f0000.opus",
+      "note": 68,
+      "loNote": 68,
+      "hiNote": 68,
+      "rootNote": 68,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153343_b27f0000.opus",
+      "note": 69,
+      "loNote": 69,
+      "hiNote": 69,
+      "rootNote": 69,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153403_c37f0000.opus",
+      "note": 70,
+      "loNote": 70,
+      "hiNote": 70,
+      "rootNote": 70,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153422_cs37f0000.opus",
+      "note": 71,
+      "loNote": 71,
+      "hiNote": 71,
+      "rootNote": 71,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153444_d37f0000.opus",
+      "note": 72,
+      "loNote": 72,
+      "hiNote": 72,
+      "rootNote": 72,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153504_ds37f0000.opus",
+      "note": 73,
+      "loNote": 73,
+      "hiNote": 73,
+      "rootNote": 73,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153523_e37f0000.opus",
+      "note": 74,
+      "loNote": 74,
+      "hiNote": 74,
+      "rootNote": 74,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153547_f37f0000.opus",
+      "note": 75,
+      "loNote": 75,
+      "hiNote": 75,
+      "rootNote": 75,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153607_fs37f0000.opus",
+      "note": 76,
+      "loNote": 76,
+      "hiNote": 76,
+      "rootNote": 76,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153634_g37f0000.opus",
+      "note": 77,
+      "loNote": 77,
+      "hiNote": 77,
+      "rootNote": 77,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153653_gs37f0000.opus",
+      "note": 78,
+      "loNote": 78,
+      "hiNote": 78,
+      "rootNote": 78,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153713_a37f0000.opus",
+      "note": 79,
+      "loNote": 79,
+      "hiNote": 79,
+      "rootNote": 79,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153733_as37f0000.opus",
+      "note": 80,
+      "loNote": 80,
+      "hiNote": 80,
+      "rootNote": 80,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153756_b37f0000.opus",
+      "note": 81,
+      "loNote": 81,
+      "hiNote": 81,
+      "rootNote": 81,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153820_c47f0000.opus",
+      "note": 82,
+      "loNote": 82,
+      "hiNote": 82,
+      "rootNote": 82,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153842_cs47f0000.opus",
+      "note": 83,
+      "loNote": 83,
+      "hiNote": 83,
+      "rootNote": 83,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153907_d47f0000.opus",
+      "note": 84,
+      "loNote": 84,
+      "hiNote": 84,
+      "rootNote": 84,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153927_ds47f0000.opus",
+      "note": 85,
+      "loNote": 85,
+      "hiNote": 85,
+      "rootNote": 85,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111153947_e47f0000.opus",
+      "note": 86,
+      "loNote": 86,
+      "hiNote": 86,
+      "rootNote": 86,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154018_f47f0000.opus",
+      "note": 87,
+      "loNote": 87,
+      "hiNote": 87,
+      "rootNote": 87,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154042_fs47f0000.opus",
+      "note": 88,
+      "loNote": 88,
+      "hiNote": 88,
+      "rootNote": 88,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154102_g47f0000.opus",
+      "note": 89,
+      "loNote": 89,
+      "hiNote": 89,
+      "rootNote": 89,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154137_gs47f0000.opus",
+      "note": 90,
+      "loNote": 90,
+      "hiNote": 90,
+      "rootNote": 90,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154200_a47f0000.opus",
+      "note": 91,
+      "loNote": 91,
+      "hiNote": 91,
+      "rootNote": 91,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154220_as47f0000.opus",
+      "note": 92,
+      "loNote": 92,
+      "hiNote": 92,
+      "rootNote": 92,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154242_b47f0000.opus",
+      "note": 93,
+      "loNote": 93,
+      "hiNote": 93,
+      "rootNote": 93,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    },
+    {
+      "filename": "20091111154306_c57f0000.opus",
+      "note": 94,
+      "loNote": 94,
+      "hiNote": 94,
+      "rootNote": 94,
+      "loVelocity": 0,
+      "hiVelocity": 127,
+      "roundRobin": 1
+    }
+  ],
+  "generatedAt": "2026-07-28T03:26:46Z"
+}
